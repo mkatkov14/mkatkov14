@@ -1,5 +1,5 @@
 <h2>
-  Hi there 👋 I'm a Python Backend Developer
+  Hi there 👋 
 </h2>
 
 <div id="badges">
@@ -14,50 +14,31 @@
   </a>
   <a href="">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=flat-square" alt="LinkedIn Badge"/>
-  </a> 
-</div>
+  </a>
+
+---
 
 ### :hammer_and_wrench: Languages and Tools :
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="Django" alt="Django" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="SQLite" alt="SQLite" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sqlalchemy/sqlalchemy-original-wordmark.svg" title="sqlalchemy" alt="sqlalchemy" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original-wordmark.svg" title="Pytest" alt="Pytest" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML5" alt="HTML" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="50"       height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg" title="Ubuntu" alt="Ubuntu" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" title="Nginx" alt="Nginx" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VSCode" alt="VSCode" width="50" height="50"/>&nbsp;
+</div>
 
+---
 
-
-[![teuchezh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mkatkov14&count_private=true&show_icons=true&theme=buefy)](https://github.com/mkatkov14)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mkatkov14&layout=compact&theme=buefy)](https://github.com/mkatkov14)
--->
-
-
-<h2 align="center">
-  Technology stack
-</h2>
-### 
-
-<img align="right" alt="jpg" src="https://github.com/mkatkov14/mkatkov14/blob/main/code.jpg?raw=true" width="600" height="350" />
-
-**Back-end**
-
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![Django](https://img.shields.io/badge/-Django-0aad48?style=flat-square&logo=Django)
-![Django Rest Framework](https://img.shields.io/badge/DjangoRestFramework-red?style=flat-square&logo=Django)
-![SqlAlchemy](https://img.shields.io/badge/-SqlAlchemy-FCA121?style=flat-square&logo=SqlAlchemy)
-
-**Databases**
-![Postgresql](https://img.shields.io/badge/-Postgresql-%232c3e50?style=flat-square&logo=Postgresql)
-![Redis](https://img.shields.io/badge/-Redis-FCA121?style=flat-square&logo=Redis)
-
-**Front-end**
-![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
-![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
-
-**Tools**
-![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FCA121?style=flat-square&logo=postman)
-![Linux](https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-
-**Learning**
-![Go](https://img.shields.io/badge/-Go-grey?style=flat-square&logo=go)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mkatkov14&layout=compact&theme=gruvbox&langs_count=2)](https://github.com/mkatkov14)
 
 ![](https://komarev.com/ghpvc/?username=mkatkov14)
