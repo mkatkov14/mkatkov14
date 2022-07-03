@@ -1,17 +1,41 @@
+<h2>
+  Hi there 👋 I'm a Python Backend Developer
+</h2>
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" width="100"/>
+<div id="badges">
+  <a href="https://t.me/mkatkov14">
+    <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=flat-square" alt="Telegram Badge"/>
+  </a>
+  <a href="">
+    <img src="https://img.shields.io/badge/WhatsApp-brightgreen?logo=whatsapp&logoColor=white&style=flat-square" alt="WhatsApp Badge"/>
+  </a>
+  <a href="mailto:MKatkov14@yandex.ru">
+    <img src="https://img.shields.io/badge/Email-orange?logo=mail&logoColor=white&style=flat-square" alt="Email Badge"/>
+  </a>
+  <a href="">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=flat-square" alt="LinkedIn Badge"/>
+  </a> 
 </div>
 
-<h1>
-  Hi there 👋 I'm a Python Backend developer
-</h1>
+### :hammer_and_wrench: Languages and Tools :
 
-## Technology stack
+
+
+[![teuchezh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mkatkov14&count_private=true&show_icons=true&theme=buefy)](https://github.com/mkatkov14)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mkatkov14&layout=compact&theme=buefy)](https://github.com/mkatkov14)
+-->
+
+
+<h2 align="center">
+  Technology stack
+</h2>
+### 
 
 <img align="right" alt="jpg" src="https://github.com/mkatkov14/mkatkov14/blob/main/code.jpg?raw=true" width="600" height="350" />
 
 **Back-end**
+
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Django](https://img.shields.io/badge/-Django-0aad48?style=flat-square&logo=Django)
 ![Django Rest Framework](https://img.shields.io/badge/DjangoRestFramework-red?style=flat-square&logo=Django)
@@ -35,3 +59,5 @@
 
 **Learning**
 ![Go](https://img.shields.io/badge/-Go-grey?style=flat-square&logo=go)
+
+![](https://komarev.com/ghpvc/?username=mkatkov14)
