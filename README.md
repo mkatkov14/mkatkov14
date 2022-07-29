@@ -39,6 +39,6 @@
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mkatkov14&layout=compact&theme=gruvbox&langs_count=2)](https://github.com/mkatkov14)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mkatkov14&layout=compact&theme=gruvbox)](https://github.com/mkatkov14)
 
 ![](https://komarev.com/ghpvc/?username=mkatkov14)
